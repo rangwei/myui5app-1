@@ -4,6 +4,8 @@
 
 - UI5 Running in Docker.
 
+SAPUI5 is a MVC frontend framework, mainly used by SAP and customers.
+
 ## Usage
 ### Local developement
 ```
@@ -16,3 +18,5 @@ npm run deploy:cf
 ```
 ## Credits
 This project has been generated with 💙 and [easy-ui5](https://github.com/SAP)
+
+OpenUI5, SAPUI5.
